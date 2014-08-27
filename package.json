@@ -26,6 +26,7 @@
     "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish#1.0.0",
     "hubot-gyazo": "0.0.2",
     "hubot-hipchat": "^2.6.4-2",
+    "hubot-hipchat-emoticons": "^1.3.0",
     "hubot-jvn": "0.0.1",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#1.0.0",
     "hubot-misawa": "0.0.1",
