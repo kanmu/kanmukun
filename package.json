@@ -23,6 +23,7 @@
   "dependencies": {
     "coffee-script": "^1.7.1",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish#1.0.0",
     "hubot-hipchat": "^2.6.4-2",
     "hubot-jvn": "0.0.1",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#1.0.0",
