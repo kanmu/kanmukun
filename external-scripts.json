@@ -1,1 +1,7 @@
-["hubot-jvn", "hubot-tiqav", "hubot-misawa", "hubot-tabelog", "hubot-shinchoku"]
+[
+  "hubot-jvn",
+  "hubot-misawa",
+  "hubot-shinchoku",
+  "hubot-tabelog",
+  "hubot-tiqav"
+]
