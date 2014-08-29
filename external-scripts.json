@@ -1,1 +1,17 @@
-["hubot-jvn", "hubot-tiqav", "hubot-misawa", "hubot-tabelog", "hubot-shinchoku"]
+[
+  "hubot-achiku",
+  "hubot-alias",
+  "hubot-auto-nonomulish",
+  "hubot-gyazo",
+  "hubot-hipchat-emoticons",
+  "hubot-jvn",
+  "hubot-lgtm",
+  "hubot-misawa",
+  "hubot-nullpo",
+  "hubot-shinchoku",
+  "hubot-shuzo",
+  "hubot-suddendeath",
+  "hubot-tabelog",
+  "hubot-tiqav",
+  "hubot-url"
+]
