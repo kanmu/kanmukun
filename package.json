@@ -17,7 +17,7 @@
   "dependencies": {
     "coffee-script": "^1.7.1",
     "hubot": ">= 2.6.0 < 3.0.0",
-    "hubot-achiku": "git://github.com/ideyuta/hubot-achiku#v0.2.2",
+    "hubot-achiku": "git://github.com/ideyuta/hubot-achiku#v0.2.3",
     "hubot-alias": "^0.1.6",
     "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish#1.0.0",
     "hubot-cron": "^0.2.5",
