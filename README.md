@@ -1,5 +1,7 @@
 # KanmuKun
 
+[![Build Status](https://travis-ci.org/kanmu/kanmukun.svg?branch=master)](https://travis-ci.org/kanmu/kanmukun)
+
 A bot for Kanmu, Inc.
 
 ## Configuraiton
