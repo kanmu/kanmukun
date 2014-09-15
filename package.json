@@ -15,7 +15,7 @@
     "url": "https://github.com/kanmu/kanmukun.git"
   },
   "dependencies": {
-    "coffee-script": "^1.7.1",
+    "coffee-script": "1.7.1",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-achiku": "git://github.com/ideyuta/hubot-achiku#v0.2.3",
     "hubot-alias": "^0.1.6",
