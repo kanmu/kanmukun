@@ -19,7 +19,6 @@
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-achiku": "git://github.com/ideyuta/hubot-achiku#v0.2.3",
     "hubot-alias": "^0.1.6",
-    "hubot-auto-nonomulish": "git://github.com/bouzuya/hubot-auto-nonomulish#1.0.0",
     "hubot-cron": "^0.2.5",
     "hubot-gyazo": "0.0.2",
     "hubot-hipchat": "^2.6.4-2",
