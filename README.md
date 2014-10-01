@@ -7,9 +7,6 @@ A bot for Kanmu, Inc.
 ## Configuraiton
 
 ```
-# for hubot-auto-nonomulish
-HUBOT_AUTO_NONOMULISH_P:     0.03
-
 # for hubot-hipchat
 HUBOT_HIPCHAT_JID:           <KANMUKUN_JID>@chat.hipchat.com
 HUBOT_HIPCHAT_PASSWORD:      <KANMUKUN_PASSWORD>
