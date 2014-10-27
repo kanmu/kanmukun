@@ -1,11 +1,11 @@
 [
-  "hubot-achiku",
   "hubot-alias",
   "hubot-cron",
   "hubot-gyazo",
   "hubot-hipchat-emoticons",
   "hubot-jakucho",
   "hubot-jvn",
+  "hubot-kanmu",
   "hubot-lgtm",
   "hubot-misawa",
   "hubot-mstr",
