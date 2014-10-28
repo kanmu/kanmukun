@@ -24,7 +24,7 @@
     "hubot-hipchat-emoticons": "^1.3.0",
     "hubot-jakucho": "git://github.com/moqada/hubot-jakucho#v0.1.0",
     "hubot-jvn": "^0.1.1",
-    "hubot-kanmu": "git://github.com/ideyuta/hubot-kanmu#v1.0.0",
+    "hubot-kanmu": "git://github.com/ideyuta/hubot-kanmu#v1.1.0",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#1.0.0",
     "hubot-misawa": "0.0.3",
     "hubot-mstr": "git://github.com/bouzuya/hubot-mstr#1.0.1",
