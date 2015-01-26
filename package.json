@@ -18,7 +18,6 @@
     "coffee-script": "1.7.1",
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-alias": "^0.1.6",
-    "hubot-cron": "^0.2.5",
     "hubot-gyazo": "0.0.2",
     "hubot-hipchat": "^2.6.4-2",
     "hubot-hipchat-emoticons": "^1.3.0",
