@@ -35,6 +35,7 @@
     "hubot-shuzo": "0.1.0",
     "hubot-suddendeath": "0.0.3",
     "hubot-tabelog": "0.0.4",
+    "hubot-tanzaku": "git://github.com/moqada/hubot-tanzaku.git#v1.0.1",
     "hubot-tiqav": "0.0.2",
     "hubot-url": "git://github.com/bouzuya/hubot-url#0.6.0"
   },
