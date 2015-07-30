@@ -1,15 +1,23 @@
 [
   "hubot-alias",
+  "hubot-diagnostics",
+  "hubot-google-translate",
   "hubot-gyazo",
+  "hubot-help",
+  "hubot-heroku-keepalive",
   "hubot-hipchat-emoticons",
   "hubot-jakucho",
   "hubot-jvn",
   "hubot-kanmu",
   "hubot-lgtm",
+  "hubot-maps",
   "hubot-misawa",
   "hubot-mstr",
   "hubot-nullpo",
   "hubot-piptools",
+  "hubot-pugme",
+  "hubot-redis-brain",
+  "hubot-rules",
   "hubot-schedule",
   "hubot-shinchoku",
   "hubot-shuzo",
@@ -17,5 +25,7 @@
   "hubot-tabelog",
   "hubot-tanzaku",
   "hubot-tiqav",
-  "hubot-url"
+  "hubot-shipit",
+  "hubot-url",
+  "hubot-youtube"
 ]
