@@ -30,7 +30,7 @@
     "hubot-kanmu": "git://github.com/ideyuta/hubot-kanmu#v1.1.2",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#1.0.0",
     "hubot-maps": "0.0.2",
-    "hubot-misawa": "0.0.3",
+    "hubot-misawa": "0.1.1",
     "hubot-mstr": "git://github.com/bouzuya/hubot-mstr#1.0.1",
     "hubot-nullpo": "0.0.3",
     "hubot-piptools": "git://github.com/achiku/hubot-piptools#0.0.6",
