@@ -7,6 +7,10 @@ A bot for Kanmu, Inc.
 ## Configuraiton
 
 ```
+# for hubot-google-images
+HUBOT_GOOGLE_CSE_ID          <CSE_ID>
+HUBOT_GOOGLE_CSE_KEY         <CSE_API_KEY>
+
 # for hubot-hipchat
 HUBOT_HIPCHAT_JID:           <KANMUKUN_JID>@chat.hipchat.com
 HUBOT_HIPCHAT_PASSWORD:      <KANMUKUN_PASSWORD>

@@ -19,6 +19,7 @@
     "hubot": "^2.13.2",
     "hubot-alias": "^0.1.6",
     "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "git://github.com/moqada/hubot-google-images#feature/8maki",
     "hubot-google-translate": "^0.2.0",
     "hubot-gyazo": "0.0.2",
     "hubot-help": "^0.1.1",
