@@ -1,6 +1,8 @@
 # KanmuKun
 
-[![Build Status](https://travis-ci.org/kanmu/kanmukun.svg?branch=master)](https://travis-ci.org/kanmu/kanmukun)
+[![Build Status][travis-image]][travis-url]
+[![Dependency Status][daviddm-image]][daviddm-url]
+[![DevDependency Status][daviddm-dev-image]][daviddm-dev-url]
 
 A bot for Kanmu, Inc.
 
@@ -38,3 +40,11 @@ HUBOT_TABELOG_PROXY:         http://<PROXY_HOST>:<PROXY_PORT>
 # for hubot-url
 HUBOT_URL_IGNORE_PATTERNS:   ["github.com", "youtube.com", "twitter.com"]
 ```
+
+
+[travis-url]: https://travis-ci.org/kanmu/kanmukun
+[travis-image]: https://img.shields.io/travis/kanmu/kanmukun.svg?style=flat-square
+[daviddm-url]: https://david-dm.org/kanmu/kanmukun
+[daviddm-image]: https://img.shields.io/david/kanmu/kanmukun.svg?style=flat-square
+[daviddm-dev-url]: https://david-dm.org/kanmu/kanmukun#info=devDependencies
+[daviddm-dev-image]: https://img.shields.io/david/dev/kanmu/kanmukun.svg?style=flat-square
