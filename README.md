@@ -10,6 +10,7 @@ A bot for Kanmu, Inc.
 # for hubot-google-images
 HUBOT_GOOGLE_CSE_ID          <CSE_ID>
 HUBOT_GOOGLE_CSE_KEY         <CSE_API_KEY>
+HUBOT_GOOGLE_SAFE_SEARCH     off
 
 # for hubot-hipchat
 HUBOT_HIPCHAT_JID:           <KANMUKUN_JID>@chat.hipchat.com
