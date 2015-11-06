@@ -40,6 +40,9 @@ HUBOT_TABELOG_PROXY:         http://<PROXY_HOST>:<PROXY_PORT>
 
 # for hubot-url
 HUBOT_URL_IGNORE_PATTERNS:   ["github.com", "youtube.com", "twitter.com"]
+
+# for hubot-youtube
+HUBOT_YOUTUBE_API_KEY        <API_KEY>
 ```
 
 
