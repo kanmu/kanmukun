@@ -17,6 +17,7 @@
   "dependencies": {
     "coffee-script": "1.10.0",
     "hubot": "^2.13.2",
+    "hubot-5rolli": "^0.2.0",
     "hubot-alias": "^0.1.6",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.3",
@@ -28,6 +29,7 @@
     "hubot-hipchat-emoticons": "^1.3.0",
     "hubot-jakucho": "^1.0.0",
     "hubot-jvn": "^0.1.1",
+    "hubot-kanjo": "^0.1.0",
     "hubot-kanmu": "git://github.com/ideyuta/hubot-kanmu#v1.2.0",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#2.0.1",
     "hubot-maps": "0.0.2",
