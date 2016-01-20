@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "coffee-script": "1.10.0",
-    "hubot": "^2.13.2",
+    "hubot": "^2.18.0",
     "hubot-5rolli": "^0.2.0",
     "hubot-alias": "^0.1.6",
     "hubot-diagnostics": "0.0.1",
