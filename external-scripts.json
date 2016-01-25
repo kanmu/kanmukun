@@ -2,6 +2,7 @@
   "hubot-5rolli",
   "hubot-alias",
   "hubot-diagnostics",
+  "hubot-github-contribution-stats",
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-gyazo",
