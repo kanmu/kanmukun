@@ -20,7 +20,7 @@
     "hubot-5rolli": "^0.2.0",
     "hubot-alias": "^0.1.6",
     "hubot-diagnostics": "0.0.1",
-    "hubot-github-contribution-stats": "^0.2.0",
+    "hubot-github-contribution-stats": "^0.3.0",
     "hubot-google-images": "^0.2.3",
     "hubot-google-translate": "^0.2.0",
     "hubot-gyazo": "0.0.2",
