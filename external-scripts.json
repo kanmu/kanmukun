@@ -21,6 +21,7 @@
   "hubot-piptools",
   "hubot-pugme",
   "hubot-redis-brain",
+  "hubot-regex-response",
   "hubot-rules",
   "hubot-schedule",
   "hubot-shinchoku",
