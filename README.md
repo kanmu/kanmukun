@@ -47,6 +47,9 @@ HUBOT_KANJO_AWS_SECRET_KEY    <AWS_SECRET_KEY_FOR_BILLING>
 # for hubot-nullpo
 HUBOT_NULLPO_RESPONSE_STYLE: rich
 
+# for hubot-regex-response
+HUBOT_REGEX_RESPONSE_CONFIGS  '[{"from":"Contributions:(?:.+)\nLongest Streak:(?:.+)\nCurrent Streak:(?:.+)\n(https://[\\S]+)","to":"<%= m[1] %>"}]'
+
 # for hubot-shuzo
 HUBOT_SHUZO_WORDS:           (無理|むり|ムリ)|(でき|出来)(ない|ません|ん|っこない)|(でき|出来)る気が?(しない|しません|せん)
 
