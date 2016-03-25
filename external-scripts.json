@@ -1,4 +1,5 @@
 [
+  "@moqada/hubot-hatena-counting",
   "hubot-5rolli",
   "hubot-alias",
   "hubot-diagnostics",
