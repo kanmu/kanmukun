@@ -9,6 +9,12 @@ A bot for Kanmu, Inc.
 ## Configuraiton
 
 ```
+# for @moqada/hubot-hatena-counting
+HUBOT_HATENA_COUNTING_COUNTDOWN_PERIODS: */1d
+HUBOT_HATENA_COUNTING_GYAZO_TOKEN:       <GYAZO_API_TOKEN>
+HUBOT_HATENA_COUNTING_ROOM:              <全体部屋>@conf.hipchat.com
+HUBOT_HATENA_COUNTING_SCHEDULE:          '0 9 * * *'
+
 # for hubot-5rolli
 HUBOT_5ROLLI_PROJECTS         <PROJECT_JSON_STRING>
 HUBOT_5ROLLI_TRELLO_API_KEY   <TRELLO_API_KEY>

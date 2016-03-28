@@ -56,6 +56,7 @@
     "hubot-youtube": "1.0.1"
   },
   "engines": {
-    "node": "4.x"
+    "node": ">= 4",
+    "npm": ">= 2"
   }
 }
