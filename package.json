@@ -53,7 +53,7 @@
     "hubot-tanzaku": "1.1.1",
     "hubot-tiqav": "0.0.2",
     "hubot-url": "git://github.com/bouzuya/hubot-url#0.6.0",
-    "hubot-youtube": "1.0.1"
+    "hubot-youtube": "1.0.2"
   },
   "engines": {
     "node": ">= 4",
