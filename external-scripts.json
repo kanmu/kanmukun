@@ -9,7 +9,6 @@
   "hubot-gyazo",
   "hubot-help",
   "hubot-heroku-keepalive",
-  "hubot-hipchat-emoticons",
   "hubot-irasutoya",
   "hubot-jakucho",
   "hubot-jvn",
@@ -33,6 +32,5 @@
   "hubot-tanzaku",
   "hubot-tiqav",
   "hubot-shipit",
-  "hubot-url",
   "hubot-youtube"
 ]
