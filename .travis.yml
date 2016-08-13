@@ -9,5 +9,6 @@ deploy:
       secure: n7MQejUxkS1zdZ5BoMOSfM5VoJewawuJJYOc6FHY2oqnwzdEXc6ATcTYO9TJl7hEa9tB6lAhi92ju8u0Qs1hdvrlpQxLyJ/j3kgW8LqEW8Fr8lhI24zAQgvvdbqCTBpS05GcXRHLVmQ1bnTTqARD0d7TjGxqlhh9GXN1j03F96A=
     app:
       master: kanmu-hubot
+      slack: kanmu-hubot-slack
     on:
       repo: kanmu/kanmukun

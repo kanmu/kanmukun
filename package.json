@@ -49,6 +49,7 @@
     "hubot-shinchoku": "0.1.0",
     "hubot-shipit": "0.2.0",
     "hubot-shuzo": "0.1.0",
+    "hubot-slack": "^4.0.2",
     "hubot-suddendeath": "0.0.3",
     "hubot-tabelog": "0.0.4",
     "hubot-tanzaku": "1.1.1",
