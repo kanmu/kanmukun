@@ -12,3 +12,4 @@ deploy:
       slack: kanmu-hubot-slack
     on:
       repo: kanmu/kanmukun
+    skip_cleanup: true
