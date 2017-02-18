@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@moqada/hubot-hatena-counting": "1.0.2",
-    "coffee-script": "1.12.3",
+    "coffee-script": "1.12.4",
     "hubot": "^2.18.0",
     "hubot-5rolli": "0.2.0",
     "hubot-alias": "0.1.11",
