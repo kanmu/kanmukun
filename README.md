@@ -1,5 +1,7 @@
 # KanmuKun
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kanmu/kanmukun.svg)](https://greenkeeper.io/)
+
 [![Build Status][travis-image]][travis-url]
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![DevDependency Status][daviddm-dev-image]][daviddm-dev-url]
