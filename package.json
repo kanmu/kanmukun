@@ -51,7 +51,7 @@
     "hubot-tabelog": "0.0.4",
     "hubot-tanzaku": "1.1.1",
     "hubot-tiqav": "0.0.2",
-    "hubot-youtube": "1.1.0"
+    "hubot-youtube": "1.1.1"
   },
   "engines": {
     "node": ">= 4",
