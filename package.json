@@ -38,7 +38,7 @@
     "hubot-nullpo": "0.0.7",
     "hubot-piptools": "git://github.com/achiku/hubot-piptools#0.0.6",
     "hubot-pugme": "0.1.0",
-    "hubot-redis-brain": "0.0.3",
+    "hubot-redis-brain": "1.0.0",
     "hubot-regex-response": "1.0.0",
     "hubot-rules": "0.1.1",
     "hubot-schedule": "0.5.1",
