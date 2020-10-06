@@ -11,11 +11,6 @@ A bot for Kanmu, Inc.
 ## Configuraiton
 
 ```
-# for @moqada/hubot-hatena-counting
-HUBOT_HATENA_COUNTING_COUNTDOWN_PERIODS: */1d
-HUBOT_HATENA_COUNTING_ROOM:              <全体部屋>@conf.hipchat.com
-HUBOT_HATENA_COUNTING_SCHEDULE:          '0 9 * * *'
-
 # for hubot-github-contribution-stats
 HUBOT_GITHUB_CONTRIBUTION_STATS_GYAZO_TOKEN <GYAZO_API_TOKEN>
 HUBOT_GITHUB_CONTRIBUTION_STATS_RESEND_GRAPH 1
