@@ -30,7 +30,7 @@
     "hubot-jakucho": "1.1.0",
     "hubot-jvn": "0.1.1",
     "hubot-kanjo": "0.2.1",
-    "hubot-kanmu": "git://github.com/kanmu/hubot-kanmu#d0173941df860c06817ca7ad29a58eb32cab5f57",
+    "hubot-kanmu": "git://github.com/kanmu/hubot-kanmu#4ed02322310c7be3966b50237b5cdf85a342e81a",
     "hubot-lgtm": "git://github.com/bouzuya/hubot-lgtm#2.0.1",
     "hubot-maps": "0.0.2",
     "hubot-misawa": "0.1.1",
