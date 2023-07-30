@@ -6,6 +6,8 @@
 [![Dependency Status][daviddm-image]][daviddm-url]
 [![DevDependency Status][daviddm-dev-image]][daviddm-dev-url]
 
+> This repository has been archived. The next-generation bot has been moved to a private repository. Thank you for all your support over the years.
+
 A bot for Kanmu, Inc.
 
 ## Configuraiton
